@@ -1,0 +1,1 @@
+print('ch22 init')
